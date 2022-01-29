@@ -1,25 +1,25 @@
-@media only screen and (min-width: 2901 ) and (max-width: 3100px) {
+@media only screen and ( min-width: 2701 ) and (max-width: 2900px) {
 
     :root{
 
         /* Start HomePage */
-          --value-home-header-title-font-size : 12rem;
-          --value-home-text-font-size : 4rem;
-          --value-home-text-margin : 5rem 0;
-          --value-home-boldword : 7rem;
-          --value-home-btn : 4rem;
+          --value-home-header-title-font-size : 10rem;
+          --value-home-text-font-size : 3rem;
+          --value-home-text-margin : 4rem 0;
+          --value-home-boldword : 6rem;
+          --value-home-btn : 3.5rem;
           --value-home-btn-border-radius: 2rem;
           --value-home-btn-padding: 3rem;
-          --value-home-btn-font-size: 4rem;
-          --value-home-arrow-width: 13rem;
-          --value-home-arrow-height: 13rem;
+          --value-home-btn-font-size: 3.5rem;
+          --value-home-arrow-width: 11rem;
+          --value-home-arrow-height: 11rem;
           --value-home-arrow-border-bottom: 1.1rem;
           --value-home-arrow-border-right: 1.1rem;
           --value-home-profil-link-gap : 4rem 5rem;
           --value-home-profil-link-margin : 3rem 0;
           --value-home-profil-link-img-height : 5rem;
           --value-home-profil-link-img-width : 5rem;
-          --value-home-profil-link-font-size : 4rem;
+          --value-home-profil-link-font-size : 3rem;
       
           /* End HomePage */
       
@@ -86,7 +86,7 @@
       
           /* Start About Page */
       
-          --value-about-subtitle-font-size: 8rem;
+          --value-about-subtitle-font-size: 6rem;
           --value-about-text-font-size: 3rem;
       
           /* End About Page */
