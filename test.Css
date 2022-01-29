@@ -1,24 +1,24 @@
-@media only screen and (min-width: 3101 ) and (max-width: 4100px) {
+@media only screen and (min-width: 2901 ) and (max-width: 3100px) {
 
     :root{
 
         /* Start HomePage */
-          --value-home-header-title-font-size : 14rem;
-          --value-home-text-font-size : 5rem;
+          --value-home-header-title-font-size : 12rem;
+          --value-home-text-font-size : 4rem;
           --value-home-text-margin : 5rem 0;
           --value-home-boldword : 7rem;
           --value-home-btn : 4rem;
           --value-home-btn-border-radius: 2rem;
           --value-home-btn-padding: 3rem;
           --value-home-btn-font-size: 4rem;
-          --value-home-arrow-width: 15rem;
-          --value-home-arrow-height: 15rem;
-          --value-home-arrow-border-bottom: 1.5rem;
-          --value-home-arrow-border-right: 1.5rem;
-          --value-home-profil-link-gap : 5rem 7rem;
+          --value-home-arrow-width: 13rem;
+          --value-home-arrow-height: 13rem;
+          --value-home-arrow-border-bottom: 1.1rem;
+          --value-home-arrow-border-right: 1.1rem;
+          --value-home-profil-link-gap : 4rem 5rem;
           --value-home-profil-link-margin : 3rem 0;
-          --value-home-profil-link-img-height : 6rem;
-          --value-home-profil-link-img-width : 6rem;
+          --value-home-profil-link-img-height : 5rem;
+          --value-home-profil-link-img-width : 5rem;
           --value-home-profil-link-font-size : 4rem;
       
           /* End HomePage */
