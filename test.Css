@@ -1,4 +1,4 @@
-@media only screen and ( min-width: 2701 ) and (max-width: 2900px) {
+@media only screen and (max-width: 2700px) {
 
     :root{
 
@@ -25,16 +25,15 @@
       
           /* Start Quote */
       
-          --value-quote-tags-margin : 10rem;
-          --value-quote-tags-font-size : 4rem;
-          --value-quote-tags-content-font-size : 7rem;
+          --value-quote-tags-margin : 7rem;
+          --value-quote-tags-font-size : 3rem;
+          --value-quote-tags-content-font-size : 5rem;
       
           /* End Quote */
       
           /* Start Navbar */
       
           --value-header-navbar-padding : 3rem 0;
-          --value-header-brand-title-font-size: 4rem;
           --value-header-brand-title-font-size: 4rem;
           
           --value-a-tags: 0 1rem;
@@ -53,7 +52,7 @@
           --value-skills-language-margin: 4rem;
           --value-skills-language-border: 0.7rem;
           --value-skills-language-hover-border: 0.8rem;
-          --value-skills-language-name-font-size: 4rem;
+          --value-skills-language-name-font-size: 3rem;
           --value-skills-language-img-max-widht: 50rem;
           --value-skills-language-img-height: 20rem;
       
@@ -61,8 +60,8 @@
           
           /* Start Project Page */
           
-          --value-text-title: 13rem;
-          --value-text-subtitle: 4rem;
+          --value-text-title: 11rem;
+          --value-text-subtitle: 3rem;
           
           --value-project-work-card-img-margin: 2rem 3rem;
           --value-project-img-border-radius: 3rem;
@@ -86,8 +85,8 @@
       
           /* Start About Page */
       
-          --value-about-subtitle-font-size: 6rem;
-          --value-about-text-font-size: 3rem;
+          --value-about-subtitle-font-size: 5rem;
+          --value-about-text-font-size: 2.5rem;
       
           /* End About Page */
           
