@@ -1,4 +1,4 @@
-@media only screen and (min-width: 4101px) {
+@media only screen and (min-width: 3101 ) and (max-width: 4100px) {
 
     :root{
 
@@ -46,8 +46,6 @@
       
           /* End Navbar */
           
-          --value-text-title: 13rem;
-          --value-text-subtitle: 4rem;
       
           /* Start Skills Page */
           
@@ -63,9 +61,12 @@
           
           /* Start Project Page */
           
+          --value-text-title: 13rem;
+          --value-text-subtitle: 4rem;
+          
           --value-project-work-card-img-margin: 2rem 3rem;
           --value-project-img-border-radius: 3rem;
-          --value-project-img-height: 50rem;
+          --value-project-img-height: 40rem;
           --value-project-img-text-font-size: 5em;
           
           --value-project-modal-header-button-font-size: 7rem;
@@ -85,8 +86,8 @@
       
           /* Start About Page */
       
-          --value-about-subtitle-font-size: 9rem;
-          --value-about-text-font-size: 4rem;
+          --value-about-subtitle-font-size: 8rem;
+          --value-about-text-font-size: 3rem;
       
           /* End About Page */
           
