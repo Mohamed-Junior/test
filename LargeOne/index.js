@@ -99,6 +99,7 @@ setInterval(()=>{
     modalproject.style.display = "none !important";
 }, 5);
 
+alert( window.innerWidth + " // " + window.innerHeight );
 window.onresize = () =>{
     // alert( window.innerWidth);
     console.log(window.innerWidth);
